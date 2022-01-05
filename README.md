@@ -1,3 +1,3 @@
 Solutions of various CyberSec tasks:
 
-* [Vulneversity](/vulneversity)
+* [Vulnversity](/vulnversity)
